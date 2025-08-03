@@ -14,3 +14,6 @@ In sum, it differentiates new vs. existing customers, mirrors PM-style reasoning
 **Python · Hugging Face Transformers · LangChain · Streamlit · FastAPI · Azure Functions · Azure Blob Storage · logging · pytest · GitHub Actions · Docker**
 
 
+
+## Tasks
+- find reliable data source
