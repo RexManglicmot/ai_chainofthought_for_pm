@@ -1,0 +1,8 @@
+pandas 
+numpy
+langchain
+streamlit
+fastapi
+python-dotenv
+transformers
+sentence-transformers
