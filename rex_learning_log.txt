@@ -1,0 +1,3 @@
+Mistakes and Debugs
+
+- Need to learn more about logger configs module. Took awhile to debig and figure it out. 
