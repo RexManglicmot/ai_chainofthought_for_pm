@@ -6,8 +6,10 @@
 2) What behavioral signals contribute to that decision
 3) What targeted actions (e.g., extend trial, send nudge, trigger onboarding) might help
 
-It differentiates new vs. existing customers, mirrors PM-style reasoning, and recommends lifecycle-specific actions.
+In sum, it differentiates new vs. existing customers, mirrors PM-style reasoning, and recommends actions.
 
 
-## 🛠️ Tech Stack  
+### Tech Stack  
 **Python · Hugging Face Transformers · LangChain · Streamlit · FastAPI · Azure Functions · Azure Blob Storage · logging · pytest · GitHub Actions · Docker**
+
+
